@@ -144,6 +144,7 @@ pipeline {
 }
 
 ```
+![Jenkins Pipeline Success](https://i.ibb.co/Hfh3FJHF/Screenshot-2026-04-15-192141.png)
 
 **Pipeline Stages:**
 1. **Build** – Compiles and packages the Java code
